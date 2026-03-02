@@ -6,7 +6,7 @@ Este projeto foi desenvolvido como parte do desafio de Data Science proposto no 
 
 O desafio consistiu na construção de um modelo preditivo capaz de identificar clientes com maior probabilidade de churn (evasão), utilizando dados da empresa fictícia Telecom X.
 
-Os dados utilizados para a realização da Parte 2 do projeto TelecomX estão disponíveis em:
+Os dados utilizados para a realização da Parte 2 do projeto Telecom X estão disponíveis em:
 [https://raw.githubusercontent.com/raauan/challenge-TelecomX-Parte2/refs/heads/main/dados_tratados.csv] ou através de download no repositório.
 
 O download do modelo escolhido, log_model (e suas features) também está disponível no repositório, ou no notebook (último código).
