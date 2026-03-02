@@ -9,6 +9,8 @@ O desafio consistiu na construção de um modelo preditivo capaz de identificar 
 Os dados utilizados para a realização da Parte 2 do projeto TelecomX estão disponíveis em:
 [https://raw.githubusercontent.com/raauan/challenge-TelecomX-Parte2/refs/heads/main/dados_tratados.csv] ou através de download no repositório.
 
+O download do modelo escolhido, log_model (e suas features) também está disponível no repositório, ou no notebook (último código).
+
 ---
 
 ## 🎯 Objetivo
